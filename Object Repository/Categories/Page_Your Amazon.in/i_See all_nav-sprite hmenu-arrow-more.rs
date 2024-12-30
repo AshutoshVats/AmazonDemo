@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_See all_nav-sprite hmenu-arrow-more</name>
+   <tag></tag>
+   <elementGuidId>aefa4a09-d5b5-45ef-8f7a-4534a59f8917</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li[20]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.nav-sprite.hmenu-arrow-more</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;See All Categories&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>abd444cc-5288-48e4-bad0-3b4e8328e53c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-sprite hmenu-arrow-more</value>
+      <webElementGuid>f2c0e098-c42b-4716-83c5-ac937504c942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/li[20]/a[@class=&quot;hmenu-item hmenu-compressed-btn&quot;]/i[@class=&quot;nav-sprite hmenu-arrow-more&quot;]</value>
+      <webElementGuid>3abdf3c5-5c44-4f0b-a59e-e3c9b9b5d5fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[20]/a/i</value>
+      <webElementGuid>30b9e43b-9a57-498f-b022-deef8d381bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[20]/a/i</value>
+      <webElementGuid>b642e5c8-68d4-4e2f-b616-f060ffd60b03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
